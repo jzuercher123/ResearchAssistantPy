@@ -38,4 +38,3 @@ Scraper -->  RelevancyFilter --> Summarizer --> Text_Classifier --> DatabaseHand
 
 References:
 -------------------------------------------------
-#python #API  #coding 
