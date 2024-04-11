@@ -39,3 +39,4 @@ Scraper -->  RelevancyFilter --> Summarizer --> Text_Classifier --> DatabaseHand
 References:
 -------------------------------------------------
 https://huggingface.co/docs
+https://www.geeksforgeeks.org/tkinter-cheat-sheet/
